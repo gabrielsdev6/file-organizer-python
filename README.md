@@ -1,10 +1,18 @@
-# Organizador de Arquivos em Python
+# File Organizer Python
 
-Script que organiza arquivos automaticamente em pastas
-baseado na extensão.
+Script que organiza automaticamente arquivos por tipo.
 
-Extensões suportadas:
-- PDF
-- JPG / PNG
-- MP3 / WAV
-- MP4 / AVI
+## Funcionalidades
+- Organiza imagens
+- Organiza vídeos
+- Organiza documentos
+- Cria pastas automaticamente
+
+## Tecnologias
+- Python
+- os
+- shutil
+
+## Como executar
+
+python main.py
